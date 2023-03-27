@@ -199,11 +199,12 @@ print(myarr.sum(axis=0))
     plt.plot(x1,y1,label='First')
     plt.plot(x2,y2,label='Second')
     plt.legend() # add Label NavBox
-```
- plt.plot() #simple line for graph
- plt.scatter() # doted Graph
- plt.hist() # doted BUilding type 
- plt.bar() # columns  
+    
+    
+     plt.plot() #simple line for graph
+     plt.scatter() # doted Graph
+     plt.hist() # doted BUilding type 
+     plt.bar() # columns  
  ```
  
  @ Jay Patel 
